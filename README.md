@@ -1,5 +1,7 @@
 ![logo](https://github.com/satyajigyansu-behera/image/blob/main/pngtree-web-banner.jpg)
 <h1 align="center">Hi 👋, I'm Satya Jigyansu Behera</h1>
+<h3 align="center">"Let's automate your thoughts 🤖💭"</h3>
+
 <h3 align="center">Transforming Data into Insights: Empowering the Future with Machine learning and AI</h3>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/satyajigyansu-behera/image/blob/main/deepLearning.gif">
